@@ -1,0 +1,8 @@
+ros-humble-dynamixel-sdk-custom-interfaces (3.7.40-3bullseye) bullseye; urgency=high
+
+  * Add ROS 2 basic example
+  * Contributors: Will Son
+
+ -- willson <willson@robotis.com>  Wed, 14 Apr 2021 07:00:00 -0000
+
+
