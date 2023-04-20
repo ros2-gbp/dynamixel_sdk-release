@@ -1,0 +1,8 @@
+ros-iron-dynamixel-sdk-custom-interfaces (3.7.40-5bullseye) bullseye; urgency=high
+
+  * Add ROS 2 basic example
+  * Contributors: Will Son
+
+ -- willson <willson@robotis.com>  Tue, 13 Apr 2021 16:00:00 -0000
+
+

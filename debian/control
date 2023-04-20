@@ -1,0 +1,12 @@
+Source: ros-iron-dynamixel-sdk-custom-interfaces
+Section: misc
+Priority: optional
+Maintainer: willson <willson@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-builtin-interfaces, ros-iron-rosidl-default-generators, ros-iron-ros-workspace, ros-iron-rosidl-typesupport-fastrtps-c, ros-iron-rosidl-typesupport-fastrtps-cpp
+Homepage: http://wiki.ros.org/dynamixel_sdk
+Standards-Version: 3.9.2
+
+Package: ros-iron-dynamixel-sdk-custom-interfaces
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-builtin-interfaces, ros-iron-rosidl-default-runtime, ros-iron-ros-workspace
+Description: ROS2 custom interface examples using ROBOTIS DYNAMIXEL SDK
