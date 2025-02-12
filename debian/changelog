@@ -1,8 +1,0 @@
-ros-jazzy-dynamixel-sdk-examples (3.7.40-6bookworm) bookworm; urgency=high
-
-  * Add ROS 2 basic example
-  * Contributors: Will Son
-
- -- willson <willson@robotis.com>  Wed, 14 Apr 2021 00:00:00 -0000
-
-
