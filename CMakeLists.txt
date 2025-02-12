@@ -5,7 +5,7 @@ cmake_minimum_required(VERSION 3.5)
 project(dynamixel_sdk)
 
 if(NOT CMAKE_CXX_STANDARD)
-  set(CMAKE_CXX_STANDARD 14)
+  set(CMAKE_CXX_STANDARD 17)
 endif()
 
 if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
@@ -32,6 +32,9 @@ set(DYNAMIXEL_SDK_SOURCES
   src/dynamixel_sdk/group_sync_write.cpp
   src/dynamixel_sdk/group_bulk_read.cpp
   src/dynamixel_sdk/group_bulk_write.cpp
+  src/dynamixel_sdk/group_fast_bulk_read.cpp
+  src/dynamixel_sdk/group_fast_sync_read.cpp
+  src/dynamixel_sdk/group_handler.cpp
   src/dynamixel_sdk/port_handler.cpp
 )
 
