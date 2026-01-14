@@ -1,3 +1,29 @@
+## dynamixel_sdk (jazzy) - 4.0.3-1
+
+The packages in the `dynamixel_sdk` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release dynamixel_sdk -t jazzy -r jazzy --edit` on `Wed, 14 Jan 2026 23:47:02 -0000`
+
+These packages were released:
+- `dynamixel_sdk`
+- `dynamixel_sdk_custom_interfaces`
+- `dynamixel_sdk_examples`
+
+Version of package(s) in repository `dynamixel_sdk`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+- release repository: https://github.com/ros2-gbp/dynamixel_sdk-release.git
+- rosdistro version: `3.8.4-1`
+- old version: `3.8.4-1`
+- new version: `4.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## dynamixel_sdk (humble) - 4.0.3-1
 
 The packages in the `dynamixel_sdk` repository were released into the `humble` distro by running `/usr/bin/bloom-release dynamixel_sdk -t humble -r humble --edit` on `Wed, 14 Jan 2026 23:27:56 -0000`
