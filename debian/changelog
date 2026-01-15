@@ -1,0 +1,63 @@
+ros-rolling-dynamixel-sdk-custom-interfaces (4.0.3-1bookworm) bookworm; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Tue, 16 Dec 2025 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (4.0.2-1bookworm) bookworm; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Sun, 23 Nov 2025 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (4.0.1-1bookworm) bookworm; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Tue, 04 Nov 2025 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (4.0.0-1bookworm) bookworm; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Mon, 13 Oct 2025 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (3.8.4-1bookworm) bookworm; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Tue, 27 May 2025 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (3.8.3-1bookworm) bookworm; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Sun, 30 Mar 2025 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (3.8.2-1bookworm) bookworm; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Wed, 12 Mar 2025 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (3.8.1-1bookworm) bookworm; urgency=high
+
+  * None
+
+ -- Pyo <pyo@robotis.com>  Tue, 11 Feb 2025 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (3.7.60-1bookworm) bookworm; urgency=high
+
+  * ROS 2 Humble Hawksbill supported
+  * Contributors: Will Son
+
+ -- Pyo <pyo@robotis.com>  Thu, 02 Jun 2022 15:00:00 -0000
+
+ros-rolling-dynamixel-sdk-custom-interfaces (3.7.40-1bookworm) bookworm; urgency=high
+
+  * Add ROS 2 basic example
+  * Contributors: Will Son
+
+ -- willson <willson@robotis.com>  Tue, 13 Apr 2021 15:00:00 -0000
+
+
