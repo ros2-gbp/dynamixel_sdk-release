@@ -2,6 +2,28 @@
 Changelog for package dynamixel_sdk
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.0.3 (2025-12-17)
+------------------
+* Dynamixel Easy SDK supports Linux SBC environments, Linux 32-bit platforms, and ROS 2 based build and deployment workflows
+* Contributors: Hyungyu Kim
+
+4.0.2 (2025-11-24)
+------------------
+* None
+
+4.0.1 (2025-11-05)
+------------------
+* None
+
+4.0.0 (2025-10-14)
+------------------
+* None
+
+3.8.4 (2025-05-28)
+------------------
+* Deprecate ament_include_dependency usage in CMakeLists.txt
+* Contributors: Wonho Yun
+
 3.8.3 (2025-03-31)
 ------------------
 * Modified the getError function for Group Read methods
