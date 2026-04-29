@@ -1,1 +1,1 @@
-{"base": "a377f823cccd", "parent": "debian/rolling/dynamixel_sdk_custom_interfaces", "previous": "a0b6da379acd", "trim": "", "trimbase": ""}
+{"base": "c930ab0", "parent": "debian/lyrical/dynamixel_sdk_custom_interfaces", "previous": "9e43fc4", "trim": "", "trimbase": ""}
