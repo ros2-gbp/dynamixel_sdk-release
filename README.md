@@ -1,3 +1,29 @@
+## dynamixel_sdk (lyrical) - 4.1.0-1
+
+The packages in the `dynamixel_sdk` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release dynamixel_sdk -t lyrical -r lyrical` on `Mon, 09 Nov 2026 05:53:57 -0000`
+
+These packages were released:
+- `dynamixel_sdk`
+- `dynamixel_sdk_custom_interfaces`
+- `dynamixel_sdk_examples`
+
+Version of package(s) in repository `dynamixel_sdk`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+- release repository: https://github.com/ros2-gbp/dynamixel_sdk-release.git
+- rosdistro version: `4.0.3-3`
+- old version: `4.0.3-3`
+- new version: `4.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## dynamixel_sdk (kilted) - 4.1.0-1
 
 The packages in the `dynamixel_sdk` repository were released into the `kilted` distro by running `/usr/bin/bloom-release dynamixel_sdk -t kilted -r kilted` on `Mon, 09 Nov 2026 05:47:23 -0000`
